@@ -1,0 +1,88 @@
+#+1507586704
+ee
+#+1507587750
+cc client.c
+#+1507587762
+cc client.c
+#+1507587773
+ee client.c
+#+1507587898
+ee client.c
+#+1507587920
+cc client.c
+#+1507588335
+ls
+#+1507588356
+ifconfig
+#+1507588458
+./a.out 192.168.74.134 51717
+#+1507589090
+$gcc client.c && ./a.out
+#+1507589278
+ee client.c
+#+1507589597
+ls
+#+1507590128
+ee client.c
+#+1507590901
+./server.c
+#+1507590912
+./server
+#+1507590929
+cc client.c
+#+1507590933
+ls
+#+1507591052
+cc -o client client.c
+#+1507591786
+ee client.c
+#+1507592108
+cc client.c
+#+1507592176
+ee client.c
+#+1507594756
+poweroff
+#+1507735370
+ls
+#+1507735401
+rm ruby-client.rb
+#+1507735403
+ls
+#+1507735410
+ee
+#+1507736267
+ruby ./client.rb
+#+1507736288
+ls
+#+1507736301
+rm client.rb
+#+1507736312
+ee client.rb
+#+1507736340
+ls
+#+1507736346
+rm client.rb
+#+1507736373
+ls
+#+1507736410
+ee
+#+1507736882
+ruby ./clientt.c
+#+1507736906
+ruby ./clientt.rb
+#+1507736960
+ls
+#+1507737002
+java Client
+#+1507737160
+./a.out clientt.c
+#+1507739015
+ls
+#+1507739269
+ee clientt.c
+#+1507740177
+java Client
+#+1507740487
+ruby ./clientt.rb
+#+1507740764
+exit
